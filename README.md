@@ -13,5 +13,5 @@ Example constructed by Dr Toby Potter from [Pelagos Consulting and Education](ht
   * Numpy
   * Jupyter 
   * You will also need a C++ compiler
-4.  ipyml package. Construction and testing of the demo has been done on Linux but it may also work for MacOS.
-5. After downloading
+3.  ipyml package. Construction and testing of the demo has been done on Linux but it may also work for MacOS.
+4. After downloading the demo, edit the makefile to suit the location of your OpenCL and Library files. Then use the notebook to run the code.
